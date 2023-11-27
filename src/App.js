@@ -20,7 +20,7 @@ function App() {
     });
 
     console.log("Valores de Input:", boxValues);
-    // Faça algo com os valores de input no contexto do App
+    // Faça algo com os valores de input no contexto do Appa
   };
 
 
